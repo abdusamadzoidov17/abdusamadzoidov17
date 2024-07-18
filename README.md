@@ -1,1 +1,1 @@
-# Hello, my name is Abdusamad. I'm a Web Developer.
+# Hello, my name is Abdusamad. I'm a Frontend Developer.
